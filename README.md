@@ -11,7 +11,7 @@
 
 [![GitHub release](https://img.shields.io/github/release/cemac/LIFD_AutoEncoders.svg)](https://github.com/cemac/LIFD_AutoEncoders/releases) [![GitHub top language](https://img.shields.io/github/languages/top/cemac/LIFD_AutoEncoders.svg)](https://github.com/cemac/LIFD_AutoEncoders) [![GitHub issues](https://img.shields.io/github/issues/cemac/LIFD_AutoEncoders.svg)](https://github.com/cemac/LIFD_AutoEncoders/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/cemac/LIFD_AutoEncoders.svg)](https://github.com/cemac/LIFD_AutoEncoders/commits/master) [![GitHub All Releases](https://img.shields.io/github/downloads/cemac/LIFD_AutoEncoders/total.svg)](https://github.com/cemac/LIFD_AutoEncoders/releases) ![GitHub](https://img.shields.io/github/license/cemac/LIFD_AutoEncoders.svg)[![DOI](https://zenodo.org/badge/366734586.svg)](https://zenodo.org/badge/latestdoi/366734586)
 
-[![LIFD_ENV_ML_NOTEBOOKS](https://github.com/cemac/LIFD_AutoEncoders/actions/workflows/python-package-conda-RF.yml/badge.svg)](https://github.com/cemac/LIFD_AutoEncoders/actions/workflows/python-package-conda-RF.yml)
+[![LIFD_ENV_ML_NOTEBOOKS](https://github.com/cemac/LIFD_AutoEncoders/actions/workflows/python-package-conda-AE.yml/badge.svg)](https://github.com/cemac/LIFD_AutoEncoders/actions/workflows/python-package-conda-AE.yml)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cemac/LIFD_AutoEncoders/HEAD?labpath=AutoEncoders.ipynb)
 
 This notebook explores ...
