@@ -15,8 +15,8 @@ jobs:
       - name: install mamba
         uses: mamba-org/provision-with-micromamba@main
         with:
-          environment-file: RF.yml
-          environment-name: RF
+          environment-file: AE.yml
+          environment-name: AE
       - name: Install test packages
         shell: bash -l {0}
         run: |
