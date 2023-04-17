@@ -1,0 +1,2 @@
+model_checkpoint_path: "AE_noisy.ckpt"
+all_model_checkpoint_paths: "AE_noisy.ckpt"

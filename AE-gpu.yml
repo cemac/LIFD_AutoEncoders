@@ -1,0 +1,13 @@
+name: AE-gpu
+channels:
+  - defaults
+  - tensorflow
+  - conda-forge
+dependencies:
+  - python
+  - pandas
+  - jupyter
+  - matplotlib
+  - cudnn
+  - tornado==6.1
+  - tensorflow-gpu
