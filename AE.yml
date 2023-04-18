@@ -6,6 +6,6 @@ dependencies:
   - python
   - pandas
   - jupyter
-  - matplotlib
+  - matplotlib==3.2.2 
   - tensorflow
   - tornado==6.1
