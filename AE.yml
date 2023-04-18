@@ -3,9 +3,9 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - python
+  - python==3.6
   - pandas
   - jupyter
-  - matplotlib==3.2.2 
+  - matplotlib==3.2.2
   - tensorflow
   - tornado==6.1
