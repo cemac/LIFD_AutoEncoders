@@ -6,6 +6,7 @@ channels:
 dependencies:
   - python
   - pandas
+  - numpy==1.23.4
   - jupyter
   - matplotlib
   - cudnn
