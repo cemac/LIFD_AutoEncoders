@@ -5,6 +5,7 @@ channels:
 dependencies:
   - python>=3.8
   - pandas
+  - numpy==1.23.4
   - jupyter
   - matplotlib==3.2.2
   - tensorflow
