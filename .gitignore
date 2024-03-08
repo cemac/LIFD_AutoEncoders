@@ -3,3 +3,6 @@
 tmp/
 Models_all/
 vae_mlp/
+checkpoint
+AE1.ckpt.index
+AE1.ckpt.data-00000-of-00001
